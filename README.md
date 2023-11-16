@@ -1,5 +1,3 @@
-[5:15 PM] Khan, Jahangir [ITSUS Non-J&J]
-
 # React.js Expert Repository
 
 
