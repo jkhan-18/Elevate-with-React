@@ -19,7 +19,7 @@ Welcome to the React.js Expert Repository! This repository is your one-stop reso
 ## Acknowledgments
 
 
-I would like to extend my heartfelt thanks to Akshay Saini for his exceptional teaching style and dedication to making React.js accessible and enjoyable to learn. His passion for React.js has inspired countless learners, including myself, to fall in love with this powerful library.
+I would like to extend my heartfelt thanks to [Akshay Saini](https://github.com/akshaymarch7) for his exceptional teaching style and dedication to making React.js accessible and enjoyable to learn. His passion for React.js has inspired countless learners, including myself, to fall in love with this powerful library.
 
 
 ## Table of Contents
